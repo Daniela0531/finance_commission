@@ -177,3 +177,10 @@ LVaR - VaR с учетом ликвидности. Эта модификация
 4. В RiskMetricks, составленной банком J.P.Morgan в 1996 году менно эта мера является основной для оценки рыночных рисков
 5. https://habr.com/ru/articles/506044/
 6. спред - https://gazprombank.investments/blog/market/spred/
+7. https://habr.com/ru/articles/506044/
+8. https://habr.com/ru/articles/543506/
+9. https://daytradingschool.ru/trejderu/skachat-kotirovki-istoricheskie-dannye-po-fyuchersam/
+10. скат https://github.com/CodeSopranos/lab-2-financial-operations/blob/as/markowitz-tobin/report.ipynb
+11. откуда качать данные https://ru.investing.com/equities/pharmsynthez-historical-data
+12. топ по обороту денег за 2020 год https://raex-rr.com/largest/RAEX-600/biggest_companies/2022/
+13. топ по чистой прибыли за 2024 год https://www.forbes.ru/biznes/521880-100-krupnejsih-kompanij-rossii-po-cistoj-pribyli-2024-rejting-forbes
