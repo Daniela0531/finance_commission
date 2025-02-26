@@ -184,3 +184,4 @@ LVaR - VaR с учетом ликвидности. Эта модификация
 11. откуда качать данные https://ru.investing.com/equities/pharmsynthez-historical-data
 12. топ по обороту денег за 2020 год https://raex-rr.com/largest/RAEX-600/biggest_companies/2022/
 13. топ по чистой прибыли за 2024 год https://www.forbes.ru/biznes/521880-100-krupnejsih-kompanij-rossii-po-cistoj-pribyli-2024-rejting-forbes
+14. https://ru.tradingview.com/symbols/AMEX-AIM/financials-statistics-and-ratios/quick-ratio/
